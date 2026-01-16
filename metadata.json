@@ -1,0 +1,5 @@
+{
+  "name": "VerifyFlow AI - Premium Email Validator",
+  "description": "A high-performance email validation and classification tool using AI to categorize addresses into Good, Risky, and Bad categories for better deliverability.",
+  "requestFramePermissions": []
+}

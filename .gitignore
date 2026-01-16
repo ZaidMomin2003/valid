@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/dist
+/dist-ssr
+/release
+/build
+/.vercel
+
+# Misc
+.DS_Store
+*.pem
+
+# Local env files
+.env*.local
+
+# Typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Electron artifacts
+electron/
+main.js
+main.cjs
+main.js.map
+*.exe
+*.dmg
+*.AppImage
+*.deb
+*.rpm
